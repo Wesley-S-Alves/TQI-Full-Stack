@@ -1,0 +1,45 @@
+body{
+    background:rgb(230, 217, 217);
+    width:1080px;
+    text-align: center;
+    margin:auto;
+}
+
+
+#title, .subtitle, .post-title{
+    color:rgb(39, 39, 39);
+}
+
+.post-title{
+    font-size: 22px;
+    font-style: italic;
+    color:red;
+}
+
+.post{
+    background:white;
+    padding: 20px 20px;
+    border: 2px solid rgb(4, 2, 134);
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+h1, h2, h3{
+    margin-top: 0;
+    font-style: italic;
+}
+
+p{
+    
+    color:black;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img{
+    text-align: center;
+    margin: auto;
+}
+head{
+    text-align: center;
+}
